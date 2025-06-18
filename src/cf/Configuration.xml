@@ -399,6 +399,7 @@
 			<WebService>MAExchange</WebService>
 			<HTTPService>Товары</HTTPService>
 			<HTTPService>ОписанияТоваров</HTTPService>
+			<HTTPService>Заказы</HTTPService>
 			<ScheduledJob>ОбновлениеАгрегатовПродаж</ScheduledJob>
 			<ScheduledJob>ОбновлениеИндексаППД</ScheduledJob>
 			<ScheduledJob>ОбновлениеИсторииДанных</ScheduledJob>
