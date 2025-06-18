@@ -1,3 +1,0 @@
-﻿New: Catalog.Справочник1
-Modified: Configuration.ДемонстрационноеПриложение
-Modified: Subsystem.Предприятие
