@@ -399,6 +399,7 @@
 			<WebService>MAExchange</WebService>
 			<HTTPService>Товары</HTTPService>
 			<HTTPService>ОписанияТоваров</HTTPService>
+			<HTTPService>Заказы</HTTPService>
 			<ScheduledJob>ОбновлениеАгрегатовПродаж</ScheduledJob>
 			<ScheduledJob>ОбновлениеИндексаППД</ScheduledJob>
 			<ScheduledJob>ОбновлениеИсторииДанных</ScheduledJob>
@@ -476,6 +477,7 @@
 			<CommonForm>ФормаПодбораМобильная</CommonForm>
 			<CommonForm>Звонок</CommonForm>
 			<CommonForm>ФормаВыбораПользователяСистемыВзаимодействия</CommonForm>
+			<CommonForm>Форма3</CommonForm>
 			<Catalog>Регионы</Catalog>
 			<Catalog>Банки</Catalog>
 			<Catalog>Склады</Catalog>
@@ -496,6 +498,7 @@
 			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
+			<Catalog>Справочник1</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
